@@ -1,0 +1,17 @@
+# Virtual Environment Storage
+venv/
+ENV/
+env/
+
+# Python Execution & Compilation Cache Archetypes
+.pytest_cache/
+.cache/
+__pycache__/
+pages/__pycache__/
+tests/__pycache__/
+*.pyc
+
+# Local Test Execution Log Outputs 
+allure-results/
+allure-report/
+report.html
