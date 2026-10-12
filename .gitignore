@@ -16,3 +16,5 @@ allure-results/
 allure-report/
 report.html
 chromedriver
+appium-native-regression/pages/__pycache__/
+appium-native-regression/tests/__pycache__/
